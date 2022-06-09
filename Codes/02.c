@@ -14,7 +14,8 @@ int main() {
 
     // only True and True True
     // only False or False False
-    
+
+    // Divisible by 2 (x%2 =0) odd even
 
     return 0;
 }
