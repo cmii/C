@@ -4,3 +4,5 @@
 void clear() {
     system("cls");
 }
+
+void pArr()
